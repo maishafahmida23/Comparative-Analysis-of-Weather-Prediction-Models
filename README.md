@@ -1,1 +1,2 @@
 # Comparative-Analysis-of-Weather-Prediction-Models
+This paper utilizes machine learning models—linear regression, random forests, support vector machines (SVM), and Long Short-Term Memory (LSTM) networks—to improve daily maximum temperature forecasting using Seattle climatic data. By enhancing weather prediction techniques, the study aims to support agriculture, transportation, and disaster response planning.
